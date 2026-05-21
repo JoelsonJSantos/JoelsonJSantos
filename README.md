@@ -18,7 +18,7 @@
 <br><br>
 
 #### Você também me encontra em:
-<a href="https://br.linkedin.com/in/joelsonti">
+<a href="https://br.linkedin.com/in/joelsonjsantos">
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
 <br><br>
