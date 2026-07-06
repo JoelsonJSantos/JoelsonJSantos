@@ -24,11 +24,11 @@ Atualmente estou desenvolvendo o **Indica Alagoas**, uma plataforma web criada p
 
 ---
 
-## 💻 Projeto em desenvolvimento
+## 💻 Projeto principal em desenvolvimento
 
 ### Indica Alagoas
 
-Plataforma web para conectar clientes a profissionais de serviços locais em Alagoas.
+Plataforma web full stack para conectar clientes a profissionais de serviços locais em Alagoas, com painel administrativo, cadastro de profissionais, aprovação de perfis e integração com WhatsApp.
 
 Funcionalidades do projeto:
 
